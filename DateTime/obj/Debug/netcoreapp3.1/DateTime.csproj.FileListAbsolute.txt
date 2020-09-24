@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache
